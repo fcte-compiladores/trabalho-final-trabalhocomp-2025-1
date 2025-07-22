@@ -1,0 +1,24 @@
+// Speedtest: teste da 'velocidade' da transmissão
+
+// velocidade inicial
+VELOCIDADE 20
+TEXTO "SPEEDTEST DA TRANSMISSAO"
+
+// pausa de 3 segundos
+PAUSA 3000
+
+// 2x velocidade inicial
+VELOCIDADE 40
+TEXTO "SPEEDTEST DA TRANSMISSAO"
+
+// 4x velocidade inicial
+VELOCIDADE 80
+TEXTO "SPEEDTEST DA TRANSMISSAO"
+
+// 8x velocidade inicial
+VELOCIDADE 160
+TEXTO "SPEEDTEST DA TRANSMISSAO"
+
+// 16x velocidade inicial
+VELOCIDADE 320
+TEXTO "SPEEDTEST DA TRANSMISSAO"

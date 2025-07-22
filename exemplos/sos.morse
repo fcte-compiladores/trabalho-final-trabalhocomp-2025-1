@@ -1,0 +1,11 @@
+// repetição do sinal de SOS
+
+VELOCIDADE 15 // menor velocidade para se assemelhar ao sinal de SOS
+
+// o padrão internacional de SOS é repetir a mensagem 3 vezes.
+REPITA 3 [
+    TEXTO "SOS"
+
+    // uma pausa de 5 segundos entre cada SOS é crucial para que as mensagens não se misturem em uma única transmissão contínua
+    PAUSA 5000
+]

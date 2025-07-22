@@ -1,0 +1,14 @@
+// Script de demonstração do MorseScript
+
+VELOCIDADE 15 // Um pouco mais lento para ler
+
+TEXTO "ola mundo"
+
+PAUSA 2000 // Pausa de 2 segundos
+
+REPITA 2 [
+    TEXTO "ola mundo"
+    PAUSA 500
+]
+
+TEXTO "olá mundo" //entrada inválida

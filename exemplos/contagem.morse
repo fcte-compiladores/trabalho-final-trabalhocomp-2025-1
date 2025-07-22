@@ -1,0 +1,15 @@
+//contagem regressiva de 3 a 1
+
+VELOCIDADE 25
+TEXTO "INICIANDO CONTAGEM"
+PAUSA 1500
+
+// contagem
+REPITA 1 [
+    TEXTO "TRES"
+    PAUSA 1000
+    TEXTO "DOIS"
+    PAUSA 1000
+    TEXTO "UM"
+    PAUSA 2000
+]
