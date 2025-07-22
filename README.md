@@ -7,7 +7,6 @@
 | :--- | :--- | :--- |
 | Henrique Galdino Couto | 200058258 | 18h |
 | Igor Thiago Lima de Santana | 190029692 | 18h |
-| Rodrigo De Andrade Lima Orlandi | 202017129 | 18h |
 | Rodrigo Braz Ferreira Gontijo | 190116498 | 16h |
 | Thales Germano Vargas Lima | 202017147 | 18h |
 
